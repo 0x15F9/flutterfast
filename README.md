@@ -1,4 +1,4 @@
-# quiz_gmi
+# Quiz app
 
 A new Flutter project.
 
